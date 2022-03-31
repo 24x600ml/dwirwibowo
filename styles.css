@@ -50,7 +50,7 @@ body{
 
 }
 .number, .empty{
-    background-color: #eaedef;
+    background-color: #000000;
 }
 .operator{
     background-color:lightgrey;
@@ -70,17 +70,17 @@ button:nth-child(4){
 }
 button:nth-child(8){
     font-size: 20px;
-    background-color: #7d93e0; ffa500
+    background-color: #7d93e0; 
 }
 button:nth-child(12){
     font-size: 20px;
-    background-color: #ffa500; f08080
+    background-color: #ffa500; 
 }
 button:nth-child(16){
     font-size: 20px;
-    background-color: #9477af; 7d93e0
+    background-color: #9477af; 
 }
 button:nth-child(20){
     font-size: 20px; 
-    background-color: #f08080; 9477af
+    background-color: #f08080; 
 }
